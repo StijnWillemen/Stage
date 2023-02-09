@@ -26,3 +26,6 @@ een kleur (R,G,B) en een volume dichtheid (σ).
 
 in het neuraal netwerk nemen we voor elke pixel op een afbeeldingen een ray die we kunnen gebruiken als datapunt. De dataset bestaat dan uit 
 n(afbeeldingen) * n(pixels op afbeelding).
+
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/60694521/217826097-368a003f-4d26-4ecb-af9c-02ec42aee414.gif)
