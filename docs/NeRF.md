@@ -33,3 +33,6 @@ n(afbeeldingen) * n(pixels op afbeelding).
 
 ### Camera gsm instant-ngp : aabb = 16 rest default
 ![Fire ext](../images/gif_fire_ext.gif)
+
+### Camera gsm Luma AI webApp
+![Chair_](../images/chair_luma.gif)
