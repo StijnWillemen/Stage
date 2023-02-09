@@ -29,3 +29,4 @@ n(afbeeldingen) * n(pixels op afbeelding).
 
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/60694521/217826097-368a003f-4d26-4ecb-af9c-02ec42aee414.gif)
+![../images/gif_fire_ext.gif](Fire ext)
