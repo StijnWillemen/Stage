@@ -28,5 +28,4 @@ in het neuraal netwerk nemen we voor elke pixel op een afbeeldingen een ray die 
 n(afbeeldingen) * n(pixels op afbeelding).
 
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/60694521/217826097-368a003f-4d26-4ecb-af9c-02ec42aee414.gif)
-![Fire ext](../images/gif_fire_ext.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/60694521/217826097-368a003f-4d26-4ecb-af9c-02ec42aee414.gif) ![Fire ext](../images/gif_fire_ext.gif)
