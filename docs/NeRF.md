@@ -38,8 +38,10 @@ n(afbeeldingen) * n(pixels op afbeelding).
 ![Chair_](../images/chair_luma.gif)
 
 ### insta360 x2 images nerfacto colmap
+
 ![Electricity](../images/electricity-gif.gif)
 
 ### insta360 x2 video nerfacto colmap
-!Fire ext2](../images/fire-ext_nerfstudio_vid-gif.gif)
+
+![Fire-ext2](../images/fire-ext_nerfstudio_vid-gif.gif)
 
