@@ -36,3 +36,10 @@ n(afbeeldingen) * n(pixels op afbeelding).
 
 ### Camera gsm Luma AI webApp
 ![Chair_](../images/chair_luma.gif)
+
+### insta360 x2 images nerfacto colmap
+![Electricity](../images/electricity-gif.gif)
+
+### insta360 x2 video nerfacto colmap
+!Fire ext2](../images/fire-ext_nerfstudio_vid-gif.gif)
+
