@@ -17,10 +17,11 @@ curr_dir = os.getcwd()
 print(paths)
 for i in range(len(paths)):
     path = paths[i]
-    dest_dir = curr_dir + f"\\{args.name}\\" + path[0] + "_disk\\"
+    #dest_dir = curr_dir + f"\\{args.name}\\" + path[0] + "_disk\\"
+    dest_dir = curr_dir + f"\\{args.name}\\"
     print(f"Writing from: {path}")
     print(f"Writing to: {dest_dir}")
-    #shutil.copytree(path, dest_dir)
+    shutil.copytree(path, dest_dir, dirs_exist_ok=True)
 
 #Do other stuff here, like process data for nerfstudio - start render etc
 #os.system('ls -l')
