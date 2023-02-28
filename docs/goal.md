@@ -23,3 +23,4 @@
 - Verschil tussen 180 en perspective lenzen evalueren
 - Waarom werkt er iets goed of slecht?
 - Voorstel rig - architectuur , kost, soort camera’s
+- Canon rig simultaan aansturen voor video
