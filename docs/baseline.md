@@ -11,4 +11,4 @@ Every title represents amount of images removed e.g. 5 is every 5 images 1 remov
 
        scale_5  |  scale_3     |  scale_1 |  scale_1_2 |  scale_1_3 |  scale_1_5
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![output](../images/output_sample_scale_5.gif) | ![output](../images/output_sample_scale_3.gif) | ![output](../images/output_sample_scale_1.gif) | ![output](../images/output_sample_scale_1_2.gif) | ![output](../images/output_sample_scale_1_3.gif) | ![output](../images/output_sample_scale_1_5.gif) |
+![output](../images/output_sample_scale_5.gif =250x250)  | ![output](../images/output_sample_scale_3.gif =250x250)   | ![output](../images/output_sample_scale_1.gif =250x250) | ![output](../images/output_sample_scale_1_2.gif =250x250) | ![output](../images/output_sample_scale_1_3.gif =250x250) | ![output](../images/output_sample_scale_1_5.gif =250x250) |
