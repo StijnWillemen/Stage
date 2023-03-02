@@ -4,7 +4,7 @@ title: baseline
 nav_order: 2
 ---
 
-## random image amount reduction
+## random image amount reduction from insta360 ONE X2 (fisheye lens 150° one side)
 
 Every title represents amount of images removed e.g. 5 is every 5 images 1 removed 1_2 is after every image 2 are removed.
  
