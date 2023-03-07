@@ -21,6 +21,12 @@ https://user-images.githubusercontent.com/60694521/223430715-438299e9-fc4a-402a-
 ### insta360 ONE R - Half3 - 35
 https://user-images.githubusercontent.com/60694521/223430794-809096d4-1c52-4fa2-9a2f-b88782894ea6.mp4
 
+### insta360 ONE R - Half4 - 20
+
+https://user-images.githubusercontent.com/60694521/223443870-6c27c4e1-b667-4fdf-9e5d-37cec2275990.mp4
+
+### insta360 ONE R - Half5 - 10
+
 
 ### inst360 one X2 ALL images
 
